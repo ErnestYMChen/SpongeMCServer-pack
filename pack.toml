@@ -1,0 +1,13 @@
+name = "Sponge"
+author = "Sponge Server"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "26a568e6ae85dfca849539232887de5dbd0eb4cdbcf7f7f730a891f74f65c700"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"
