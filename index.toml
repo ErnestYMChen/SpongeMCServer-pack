@@ -489,9 +489,21 @@ file = "world/datapacks/sponge-rules/data/minecraft/tags/function/load.json"
 hash = "37e47b13520d0fe0bd57d9bf4ff6c8bacc54d88ee807db70a15f3f38fc73e1f0"
 
 [[files]]
+file = "world/datapacks/sponge-rules/data/minecraft/tags/function/tick.json"
+hash = "543ca722afbab8118922fa6379759b8edf25c61d7e13c0a51044e2fe0fd5ee53"
+
+[[files]]
 file = "world/datapacks/sponge-rules/data/sponge/function/load.mcfunction"
 hash = "6e44f98bb4c31fe57c13a8b51147de23d2543fa215bff99e21fe57e0365ec70f"
 
 [[files]]
+file = "world/datapacks/sponge-rules/data/sponge/function/starter.mcfunction"
+hash = "847a8ebc317a93b7677bf9809265cccdc98d7d64d02ad696bdc12f27eae30499"
+
+[[files]]
+file = "world/datapacks/sponge-rules/data/sponge/function/tick.mcfunction"
+hash = "12eeb0ddc24740e5e630f58775b1bd1150e319c7bb8fee56f85f790780653594"
+
+[[files]]
 file = "world/datapacks/sponge-rules/pack.mcmeta"
-hash = "072ae8bf6e86cd59fc46d03300c8fdef84b485e2cbaa50d81ba495e2636f72f1"
+hash = "f363a5a66d5ffc2ba450cb982a3adaf2f4e0a1c85df16c32e85ff1b47e83623b"
