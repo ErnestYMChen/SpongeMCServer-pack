@@ -1,0 +1,13 @@
+name = "NeonLight"
+filename = "neonlight-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Eltyu9E/versions/SFkiSNbN/neonlight-1.0.1.jar"
+hash-format = "sha512"
+hash = "b4bcfe4410d617aecde67106cb7590774faa714f983a729fed4cb7a1482ae2219386cc1c66c706f16b4a9e16f1a7452a684e1669b9419f611db548ec20329033"
+
+[update]
+[update.modrinth]
+mod-id = "5Eltyu9E"
+version = "SFkiSNbN"

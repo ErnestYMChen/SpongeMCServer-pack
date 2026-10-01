@@ -305,6 +305,11 @@ hash = "3828079c9923a96c1c2a3e01139752fd0e5c7c5a69bb65a44b08ba87e6d7d0f9"
 metafile = true
 
 [[files]]
+file = "mods/mielons-the-sift.pw.toml"
+hash = "46ae8fbe3dd444c7699e6393285e7eaa13697a77ffe862976d4e399e7f979523"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
@@ -327,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "0cba939c32c0b0a5848d329f07a5f523b3833e8d7e876bafcb1e8892fccf56e3"
+metafile = true
+
+[[files]]
+file = "mods/neon-light.pw.toml"
+hash = "4ce8e63493f408491139bb4926ccef6a756d63e60ee20744f4ddea22d928c3e9"
 metafile = true
 
 [[files]]
@@ -377,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/sign-plates-letters-symbols.pw.toml"
+hash = "2cd00dcb518f9f4f78328e52cd6dacba368489afc6ec0d0e88d639eba3a53230"
 metafile = true
 
 [[files]]
