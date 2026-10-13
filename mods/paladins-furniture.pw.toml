@@ -1,0 +1,13 @@
+name = "Paladin's Furniture Mod"
+filename = "paladin-furniture-mod-1.5.0-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISz7Qd3/versions/zSEefyfO/paladin-furniture-mod-1.5.0-neoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "d8d4fbb6fd37121984d7643c7a7ae3e08cdb074fd16d75b3ab6e4e8a0e38919ccd2be78b483ac4b3e844c847045f2f3269c77703714dbcd3dc628d4e1403182a"
+
+[update]
+[update.modrinth]
+mod-id = "SISz7Qd3"
+version = "zSEefyfO"
