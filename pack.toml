@@ -1,12 +1,12 @@
 name = "Sponge"
 author = "Sponge Server"
-version = "1.4.1"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8e21c2f165a6223f006c2908846b3d6dea88fa26b80b5a71d95b9981b0da1c7"
+hash = "05d21a886ebf3ce4507ed628ddf541d700392915c26cad092e47efe2dc81efc2"
 
 [versions]
 minecraft = "1.21.1"

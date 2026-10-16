@@ -60,6 +60,11 @@ hash = "dbf1b55fa703024af47aafaa0fab0af1c972e7faea68e6f46f4467f20f0c837b"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "66b2e57fad1d958893206d82ff878159b7fdfef64ccb74fe1232b71012409953"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/llo.pw.toml"
+hash = "70701f3b0aca1912a37edabfdf73dc7abc359ea46eac9856bb4f7ebc1a2003c8"
 metafile = true
 
 [[files]]
@@ -472,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "08aa1a2574bde997cb575648a6ff67b630b68f3783849579b8399ffb3a3829dc"
 metafile = true
 
 [[files]]
