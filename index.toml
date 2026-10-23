@@ -5,6 +5,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "2f89b0154051cb61cd7de8452194bda4dfe342891df98c1d187eba03301504d0"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "02949a11f661ad9935748a4c63c4852644ec2015ae89e59a637beac0466f2502"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -140,6 +144,16 @@ hash = "4dc4b35767b1869c41addaa0cd8f26d8ec55d01e75efd3a2a01dd43420cc7f45"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
+hash = "1b89507fb7bc8c2ed11c020a9014ce4a6552e7d0fe0522f6c1107a27e9c89f07"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "87a61d4fb5ff4a4800c3af8f71ba66e79583b769b6b53f50dcb5089cd660774f"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "276da3b2d9f2566484467c3654df5e963b64a56f96a130fd5af88b1413dca65c"
 metafile = true
@@ -162,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
