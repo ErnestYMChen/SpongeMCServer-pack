@@ -8,6 +8,9 @@ give @s minecraft:bread 32
 give @s minecraft:torch 32
 give @s minecraft:white_bed
 give @s minecraft:oak_log 16
+# 超級火把：周圍 64 格不自然生怪（Torchmaster）。傳送石碑：放在家裡當回家的傳送點（Waystones）
+give @s torchmaster:megatorch
+give @s waystones:waystone
 # 新手保護：抗性 I、生命恢復 I，各 10 分鐘（600 秒，等級 0 = I）
 effect give @s minecraft:resistance 600 0
 effect give @s minecraft:regeneration 600 0

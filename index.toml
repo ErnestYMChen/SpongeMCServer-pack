@@ -9,6 +9,10 @@ file = "config/fallingtree.json"
 hash = "02949a11f661ad9935748a4c63c4852644ec2015ae89e59a637beac0466f2502"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "beb4e930eb973e6944d6dfc79dc325999051d9804b78d46a7728c226f1ab64f4"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -196,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
 metafile = true
 
 [[files]]
@@ -567,7 +576,7 @@ hash = "6e44f98bb4c31fe57c13a8b51147de23d2543fa215bff99e21fe57e0365ec70f"
 
 [[files]]
 file = "world/datapacks/sponge-rules/data/sponge/function/starter.mcfunction"
-hash = "847a8ebc317a93b7677bf9809265cccdc98d7d64d02ad696bdc12f27eae30499"
+hash = "4e53788c7b721e1226bf1b31b3596626ca3bf1ff52971eab0c89c92c70057c16"
 
 [[files]]
 file = "world/datapacks/sponge-rules/data/sponge/function/tick.mcfunction"
