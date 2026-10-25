@@ -63,6 +63,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/caramel-chat.pw.toml"
+hash = "2356e35c072559218473fce6c76c9a8267f133e76ae74a5c2b85fab7efe2a25f"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "dbf1b55fa703024af47aafaa0fab0af1c972e7faea68e6f46f4467f20f0c837b"
 metafile = true
@@ -80,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
 metafile = true
 
 [[files]]
@@ -313,6 +323,11 @@ hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
 metafile = true
@@ -330,6 +345,16 @@ metafile = true
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "643d332b262b72f86f806cc1410b4354803a07b6012c1210f06d2ca231cccd30"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
@@ -556,6 +581,54 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
+
+[[files]]
+file = "schematics/buke_yashiki.nbt"
+hash = "6a9f750c3e832f404146df8e7998ce34de0808ea44635b0b84478866977bcaaa"
+
+[[files]]
+file = "schematics/chashitsu.nbt"
+hash = "e92c60d11aa1daf9d40629bc76a8ca1d09b1a0e2fe1f3704ec7a023e4d9e1129"
+
+[[files]]
+file = "schematics/machiya.nbt"
+hash = "2b978b512855ace97720b2bdc381c5a3f76db5abc89a8a46882d84c88fb1fa79"
+
+[[files]]
+file = "schematics/machiya_shop.nbt"
+hash = "67e0fd67b7366c7b03d88d9d3034ac14b04922748e5ccfa108f0f4f0e98de1a0"
+
+[[files]]
+file = "schematics/nagaya.nbt"
+hash = "5c569924460f66c051c0358acfad04bc7b85da1b358d6b4d3834ffdad1423064"
+
+[[files]]
+file = "schematics/pagoda.nbt"
+hash = "2a3a4625f624dd18dde93956c113372b58c30a83e0888d2f063a413720685eba"
+
+[[files]]
+file = "schematics/senbon_torii.nbt"
+hash = "46cfd3e42329ffde01f93a138660a70d82ff83127e0bf9c7173d20b327e9f8e0"
+
+[[files]]
+file = "schematics/senbon_torii_one.nbt"
+hash = "6565f1fc5a2da5a06b11688b47c428bfdc56e593f083fffbd1ff993e20525d8f"
+
+[[files]]
+file = "schematics/shrine.nbt"
+hash = "0a15b5a9db1f07461d3991549d739147b9d4c55d00dd8a96ceadbe4a8718b9b0"
+
+[[files]]
+file = "schematics/simple_house.nbt"
+hash = "db69a525de6ed020ed3d9bc6442145fd366419fa80bc4f25230fec26a4c0ba8c"
+
+[[files]]
+file = "schematics/torii.nbt"
+hash = "3f7835103f9a7e676795d7d836f071fd09d637b5417781d8a2b9521a82b9b156"
+
+[[files]]
+file = "schematics/torii_big.nbt"
+hash = "17381b9a9a26044278e4f7a848b3ef3016da2aca731e17363284d16815996db6"
 
 [[files]]
 file = "world/datapacks/creeper-fireworks.pw.toml"
